@@ -6,9 +6,9 @@ From your chosen tool, the contract owner should be able to mint tokens to a pro
 
 # Functionality
 
-Only contract owner should be able to mint tokens
-Any user can transfer tokens
-Any user can burn tokens
+1. Only contract owner should be able to mint tokens
+2. Any user can transfer tokens
+3. Any user can burn tokens
 
 # Starter Next/Hardhat Project
 
