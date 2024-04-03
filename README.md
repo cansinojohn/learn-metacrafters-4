@@ -1,4 +1,4 @@
-## Project: Create and Mint Token
+# Project: Create and Mint Token
 
 Write a smart contract to create your own ERC20 token and deploy it using HardHat or Remix. 
 Once deployed, you should be able to interact with it.
